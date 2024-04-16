@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ue5_trainingModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62448dd46489847c8e2a1449d72ddc6bb22da2ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6146b1eb0ca0da59632e98c23a79bba4ba27466c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ue5_trainingModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ue5_trainingModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

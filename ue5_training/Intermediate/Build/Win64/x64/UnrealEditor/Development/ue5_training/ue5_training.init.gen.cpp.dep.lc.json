@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\donno\\documents\\projets\\ue5_training\\ue5_training\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5_training\\uht\\ue5_training.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\donno\\documents\\projets\\ue5_training\\ue5_training\\intermediate\\build\\win64\\x64\\ue5_trainingeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\donno\\documents\\projets\\ue5_training\\ue5_training\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ue5_training\\definitions.ue5_training.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

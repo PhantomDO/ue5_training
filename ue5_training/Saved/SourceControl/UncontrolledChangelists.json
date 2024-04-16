@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/donno/Documents/Projets/ue5_training/ue5_training/Content/BaseDropPod.uasset",
+				"C:/Users/donno/Documents/Projets/ue5_training/ue5_training/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AV/5KU5NVISYICPTCMA7DLU6R.uasset"
+			]
+		}
+	]
+}

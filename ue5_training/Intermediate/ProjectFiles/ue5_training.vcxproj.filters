@@ -11,6 +11,9 @@
     <None Include="..\..\Source\ue5_trainingEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.editorconfig" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\shadertoolsconfig.json" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -52,6 +55,24 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\ue5_training\ue5_trainingGameMode.h">
       <Filter>Source\ue5_training</Filter>
+    </ClInclude>
+    <Filter Include="Source\ue5_training\Private">
+      <UniqueIdentifier>{BC53EC47-F32D-333A-B004-C1E1A095139D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ue5_training\Private\CodeCommand.cpp">
+      <Filter>Source\ue5_training\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ue5_training\Private\DropPod.cpp">
+      <Filter>Source\ue5_training\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ue5_training\Public">
+      <UniqueIdentifier>{05D99541-7444-3FC6-957F-302A1BDD76C2}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ue5_training\Public\CodeCommand.h">
+      <Filter>Source\ue5_training\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ue5_training\Public\DropPod.h">
+      <Filter>Source\ue5_training\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
