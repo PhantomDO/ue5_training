@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\donno\\Documents\\Projets\\ue5_training\\ue5_training\\Source\\ue5_training\\ue5_training.Build.cs",
+		"C:\\Users\\donno\\Documents\\Projets\\ue5_training\\ue5_training\\Source\\ue5_training.Target.cs",
+		"C:\\Users\\donno\\Documents\\Projets\\ue5_training\\ue5_training\\Source\\ue5_trainingEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ue5_training",
+			"Path": "..\\Source\\ue5_training.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ue5_trainingEditor",
+			"Path": "..\\Source\\ue5_trainingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
